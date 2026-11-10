@@ -2,11 +2,12 @@
 
 小米手环上能真正打字的记事本。
 
-![腕记](cover.png)
+![腕记](media/cover.png)
 
 ## 能做什么
 
 - **九宫格拼音**：收了 2 万个常用词，只按首字母也能打（J T 就是「今天」）
+- **两套键盘**：默认全键盘（[喵喵输入法](https://github.com/NEORUAA/Vela_input_method)），也可以换成九宫格
 - **会学习**：选过的词排在前面，还会记住你常接的下一个词
 - **好改**：点文字挪光标，撤销重做，内容变了 3 秒自动保存
 - **英文、数字、标点**，日期和时间一点就插入
@@ -25,18 +26,18 @@
 
 ## 安装
 
-在 AstroBox 的资源商店里搜「腕记」，或者下载本仓库里的 `.rpk`，用 AstroBox 打开安装。
+在 AstroBox 的资源商店里搜「腕记」，或者下载本仓库 `downloads/` 里的 `.rpk`，用 AstroBox 打开安装。
 
 ## 截图
 
-| 打字 | 展开候选 | 列表 |
+| 全键盘 | 列表 | 九宫格 |
 |---|---|---|
-| ![](preview1.png) | ![](preview2.png) | ![](preview3.png) |
+| ![](media/preview1.png) | ![](media/preview2.png) | ![](media/preview3.png) |
 
-| 阅读 | 二维码导出 | 设置 |
+| 阅读 | 设置 | 展开候选 |
 |---|---|---|
-| ![](preview4.png) | ![](preview5.png) | ![](preview6.png) |
+| ![](media/preview4.png) | ![](media/preview5.png) | ![](media/preview6.png) |
 
 ## 许可
 
-词库来自 [pinyinjs](https://github.com/sxei/pinyinjs)、[jieba](https://github.com/fxsjy/jieba)、[phrase-pinyin-data](https://github.com/mozillazg/phrase-pinyin-data)，均为 MIT 许可，许可全文在安装包的 `common/legal` 目录。
+词库来自 [pinyinjs](https://github.com/sxei/pinyinjs)、[jieba](https://github.com/fxsjy/jieba)、[phrase-pinyin-data](https://github.com/mozillazg/phrase-pinyin-data)，全键盘用的是 NEORUAA 的 [Vela_input_method](https://github.com/NEORUAA/Vela_input_method)。均为 MIT 许可，许可全文在安装包的 `common/legal` 目录。
