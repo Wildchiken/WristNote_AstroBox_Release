@@ -3,7 +3,7 @@
     "id": "com.wristnote.band",
     "restype": "quick_app",
     "name": "腕记",
-    "description": "小米手环上能真正打字的记事本。\n\n- 两套键盘：默认全键盘（喵喵输入法），也可以换成九宫格\n- 九宫格支持简拼（J T 就是「今天」），会记住你常用的词\n- 光标、撤销重做、自动保存，写到一半没电也不会丢\n- 英文、数字、标点\n- 导出：二维码扫码带走；配合 AstroBox 插件「腕记同步」，能在手机上读取、复制、导出 Markdown，也能把手机上写好的发到手环\n- 记事只存在手环本机，不联网\n\n适配小米手环 9 / 9 Pro / 10 / 10 NFC / 10 Pro / 11 / 11 NFC。全键盘来自 NEORUAA 的 Vela_input_method（MIT）。",
+    "description": "小米手环上能真正打字的记事本。\n\n- 两套键盘：默认全键盘（喵喵输入法），也可以换成九宫格\n- 九宫格支持简拼（J T 就是「今天」），会记住你常用的词\n- 光标、撤销重做、自动保存，写到一半没电也不会丢\n- 英文、数字、标点\n- 导出：二维码扫码带走；配合 AstroBox 插件「腕记同步」，能在手机上读取、复制、导出 Markdown，也能把手机上写好的发到手环\n- 记事只存在手环本机，不联网\n\n适配小米手环 11 / 11 NFC（已在手环 11 真机上验证）。全键盘来自 NEORUAA 的 Vela_input_method（MIT）。",
     "preview": [
       "media/preview1.png",
       "media/preview2.png",
@@ -23,40 +23,15 @@
   },
   "links": [],
   "downloads": {
-    "xmb10": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
-    },
-    "xmb10nfc": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
-    },
-    "xmb10p": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
-    },
     "xmb11": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
+      "version": "0.8.4",
+      "file_name": "downloads/com.wristnote.band.release.0.8.4.rpk",
+      "versionCode": 15
     },
     "xmb11nfc": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
-    },
-    "xmb9": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
-    },
-    "xmb9p": {
-      "version": "0.8.0",
-      "file_name": "downloads/com.wristnote.band.release.0.8.0.rpk",
-      "versionCode": 11
+      "version": "0.8.4",
+      "file_name": "downloads/com.wristnote.band.release.0.8.4.rpk",
+      "versionCode": 15
     }
   },
   "ext": {
