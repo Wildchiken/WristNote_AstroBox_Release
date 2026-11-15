@@ -23,57 +23,203 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "反馈问题",
+      "url": "https://github.com/Wildchiken/WristNote_AstroBox_Release/issues"
+    }
+  ],
   "downloads": {
     "xmb9": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmb9p": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmb10": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmb10nfc": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmb10p": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmb11": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmb11nfc": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmrw5": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmrw6": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     },
     "xmws5": {
       "version": "0.10.0",
       "file_name": "downloads/com.wristnote.band.release.0.10.0.rpk",
-      "versionCode": 18
+      "versionCode": 18,
+      "updatelogs": [
+        {
+          "version": "0.10.0",
+          "content": "新增适配 REDMI Watch 5 / 6、Xiaomi Watch S5。\n手环 9 Pro / 10 Pro 和手表也有全键盘（26 键）了，所有机型都能在「设置 → 键盘」里切换全键盘和九宫格。\n手环 9 Pro / 10 Pro：九宫格重排，针对「按键有时只剩左边一列」；列表和设置页的文字放大。\n打字页去掉了顶部的「完成」：右滑保存并返回，内容也会自动保存。"
+        },
+        {
+          "version": "0.9.1",
+          "content": "全键盘上屏后给出联想词和常用标点，打过的词会记住。\n九宫格分次选词时，剩下的拼音马上有词语候选。\n列表标题最多显示两行。\n修复：清除输入记录后又被写回；记事满 300 条时最旧的一条会消失。\n换了新图标。"
+        },
+        {
+          "version": "0.8.4",
+          "content": "首次上架。"
+        }
+      ]
     }
   },
   "ext": {
