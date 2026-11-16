@@ -32,10 +32,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -55,10 +59,14 @@
       ]
     },
     "xmb9p": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -78,10 +86,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -101,10 +113,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -124,10 +140,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -147,10 +167,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -170,10 +194,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -193,10 +221,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -216,10 +248,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
@@ -239,10 +275,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.10.1",
-      "file_name": "downloads/com.wristnote.band.release.0.10.1.rpk",
-      "versionCode": 19,
+      "version": "0.10.2",
+      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "0.10.2",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+        },
         {
           "version": "0.10.1",
           "content": "修复：打开记事时会先闪一下键盘。\n手环 9 / 10 / 11 用全键盘时，正文区多显示一行；联想词和工具排挪到键盘最上面那一行，打拼音时自动让开。\n联想词出得更快：打拼音时就提前准备好要用的词库。"
