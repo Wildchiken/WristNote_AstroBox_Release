@@ -32,13 +32,13 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -59,13 +59,13 @@
       ]
     },
     "xmb9p": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -86,13 +86,13 @@
       ]
     },
     "xmb10": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -113,13 +113,13 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -140,13 +140,13 @@
       ]
     },
     "xmb10p": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -167,13 +167,13 @@
       ]
     },
     "xmb11": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -194,13 +194,13 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -221,13 +221,13 @@
       ]
     },
     "xmrw5": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -248,13 +248,13 @@
       ]
     },
     "xmrw6": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
@@ -275,13 +275,13 @@
       ]
     },
     "xmws5": {
-      "version": "0.10.2",
-      "file_name": "downloads/com.wristnote.band.release.0.10.2.rpk",
-      "versionCode": 20,
+      "version": "0.10.3",
+      "file_name": "downloads/com.wristnote.band.release.0.10.3.rpk",
+      "versionCode": 21,
       "updatelogs": [
         {
-          "version": "0.10.2",
-          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半，点候选栏右边的箭头仍能看到全部候选。"
+          "version": "0.10.3",
+          "content": "九宫格打字更跟手：每按一个键要处理的候选少了一大半；手环较慢时，连着按键会先显示拼音字母，停下再出候选，不会越按越卡。\n「关于」页会显示九宫格每次按键的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
         },
         {
           "version": "0.10.1",
