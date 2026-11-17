@@ -32,10 +32,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -59,10 +63,14 @@
       ]
     },
     "xmb9p": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -86,10 +94,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -113,10 +125,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -140,10 +156,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -167,10 +187,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -194,10 +218,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -221,10 +249,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -248,10 +280,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
@@ -275,10 +311,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.10.4",
-      "file_name": "downloads/com.wristnote.band.release.0.10.4.rpk",
-      "versionCode": 22,
+      "version": "0.10.5",
+      "file_name": "downloads/com.wristnote.band.release.0.10.5.rpk",
+      "versionCode": 23,
       "updatelogs": [
+        {
+          "version": "0.10.5",
+          "content": "修复：用全键盘时，「撤销 重做」那一排和「中 / 123」那一排重叠在一起。"
+        },
         {
           "version": "0.10.4",
           "content": "九宫格打字更跟手：按键后拼音字母马上出来，查词、换候选放到后面，连着按不会越按越卡。\n打字时不再被后台读词库、自动保存打断：自动保存改在停手后进行。\n「关于」页会显示九宫格查词的平均耗时，觉得卡的话可以把这个数告诉我。\n修复「关于」页不显示版本号。"
