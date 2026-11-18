@@ -33,10 +33,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -68,10 +72,14 @@
       ]
     },
     "xmb9p": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -103,10 +111,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -138,10 +150,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -173,10 +189,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -208,10 +228,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -243,10 +267,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -278,10 +306,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -313,10 +345,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
@@ -348,10 +384,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.11.1",
-      "file_name": "downloads/com.wristnote.band.release.0.11.1.rpk",
-      "versionCode": 25,
+      "version": "0.11.2",
+      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
+      "versionCode": 26,
       "updatelogs": [
+        {
+          "version": "0.11.2",
+          "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
+        },
         {
           "version": "0.11.1",
           "content": "修复：手环 9 上腕记的应用图标过大，图标改小了。"
