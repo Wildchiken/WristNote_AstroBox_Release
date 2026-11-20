@@ -33,10 +33,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -72,10 +76,14 @@
       ]
     },
     "xmb9p": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -111,10 +119,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -150,10 +162,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -189,10 +205,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -228,10 +248,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -267,10 +291,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -306,10 +334,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -345,10 +377,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
@@ -384,10 +420,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.11.2",
-      "file_name": "downloads/com.wristnote.band.release.0.11.2.rpk",
-      "versionCode": 26,
+      "version": "0.11.3",
+      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
+      "versionCode": 27,
       "updatelogs": [
+        {
+          "version": "0.11.3",
+          "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
+        },
         {
           "version": "0.11.2",
           "content": "修复几种可能丢记事的情况：手机发来记事时手环正好在保存、存储偶尔读取失败、记事满 300 条时手机还在发。\n存储满了没存上时会提示，不会让你以为已经存好。"
