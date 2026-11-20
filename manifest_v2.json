@@ -33,10 +33,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -76,10 +80,14 @@
       ]
     },
     "xmb9p": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -119,10 +127,14 @@
       ]
     },
     "xmb10": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -162,10 +174,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -205,10 +221,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -248,10 +268,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -291,10 +315,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -334,10 +362,14 @@
       ]
     },
     "xmrw5": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -377,10 +409,14 @@
       ]
     },
     "xmrw6": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
@@ -420,10 +456,14 @@
       ]
     },
     "xmws5": {
-      "version": "0.11.3",
-      "file_name": "downloads/com.wristnote.band.release.0.11.3.rpk",
-      "versionCode": 27,
+      "version": "0.11.4",
+      "file_name": "downloads/com.wristnote.band.release.0.11.4.rpk",
+      "versionCode": 28,
       "updatelogs": [
+        {
+          "version": "0.11.4",
+          "content": "实验功能里新增「伪装模式」：打开后别人点开腕记看着是空的，搜索也搜不到；连点首页标题 5 下（或长按标题）才显示记事，退出再打开又会藏起来。\n每个页面少占一些内存。\n修复：9 Pro 和方屏手表上没有记事时，图标压住「新建」按钮、点不动。"
+        },
         {
           "version": "0.11.3",
           "content": "减少占用内存，降低搜索和打字时偶发闪退的可能：记事很多时首页分批显示、撤销记录更省、搜索用完就释放内存。"
